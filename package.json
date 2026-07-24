@@ -1,1 +1,13 @@
-
+{
+  "name": "roblox-donation-api",
+  "version": "1.0.0",
+  "description": "API pour récupérer les Game Pass Roblox publics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5"
+  }
+}
